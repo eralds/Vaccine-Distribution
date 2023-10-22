@@ -7,7 +7,7 @@ Quang Ngo
 Thinh Nguyen
 Erald Shahinas
 
-Brief user manual 
+## Brief user manual 
 
 Step 1: Clone the remote repository to your local device. 
 
